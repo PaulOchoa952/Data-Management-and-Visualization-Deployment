@@ -7,4 +7,4 @@ All Kubernetes YAML manifests are in the `Pods`, `Services`, and `Deployments` f
 
 
 # Python file
-The python script use trasnfer library and pandas in order to get and format the data.
+The python script use transfer library and csv in order to get and format the data.

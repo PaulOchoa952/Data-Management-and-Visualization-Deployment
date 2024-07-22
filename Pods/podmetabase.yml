@@ -1,0 +1,13 @@
+# Simple Kubernetes Pod to deploy the app contained in metabase/metabase:latest
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-metabase
+  labels:
+    app: web
+spec:
+  containers:
+    - name: metabase-ctr
+      image: metabase/metabase:latest
+      ports:
+        - containerPort: 3000

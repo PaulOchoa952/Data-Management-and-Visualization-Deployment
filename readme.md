@@ -10,3 +10,5 @@ All Kubernetes YAML manifests are in the `Pods`, `Services`, and `Deployments` f
 
 # Python file
 The python script use transfer library and csv in order to get and format the data.
+
+![Metabase Logo](https://www.metabase.com/images/logo.png "Metabase Logo")

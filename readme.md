@@ -1,6 +1,6 @@
 # Readme
 Python script to fetch the metabase data and put it into a csv using the metabase API.
-# Tech use
+## Tech use
 We require to install Kubernets,Python,Docker desktop,visual studio code and git.
 
 ## Kubernetes YAML files
